@@ -1,5 +1,6 @@
 
-# Croatian Census of Population, Households and Apartments 2021 Report
+
+# POWER BI report - The Census of population, households and apartments in the Republic of Croatia in 2021
 
 This repository contains a report generated using data from the The Census of population, households and apartments in the Republic of Croatia in 2021 , provided by the State Bureau of Statistics. The report encompasses population data categorized by settlements, municipalities, cities, and counties.
 
@@ -21,8 +22,7 @@ The report provides comprehensive insights into population demographics based on
 
 - **Data:** The report is based on the data obtained from the 2021 Census provided by the State Bureau of Statistics. The raw data may be available upon request or sourced from the State Bureau of Statistics.
 
-
-
+![ukupno](https://github.com/Tomislav14/PowerBI-Demographics-Report/assets/126504168/72cbbf35-0fa8-4326-95ea-6ced6f5f11b0)
 
 
 
@@ -33,3 +33,9 @@ Contributions to enhance the report or improve data visualization techniques are
 ## License
 
 The usage and distribution of this report may be subject to specific licensing terms. Please refer to the LICENSE file for more information.
+
+
+![Općine](https://github.com/Tomislav14/PowerBI-Demographics-Report/assets/126504168/eabd635e-85e8-4d9d-a59a-871c5e816321)
+![Gradovi](https://github.com/Tomislav14/PowerBI-Demographics-Report/assets/126504168/006457c6-c67a-48b7-854c-e44d30cf9bb2)
+![Naselja](https://github.com/Tomislav14/PowerBI-Demographics-Report/assets/126504168/747a9869-0b74-4c89-bc4d-68abca576cfa)
+
