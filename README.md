@@ -35,14 +35,6 @@ Contributions to enhance the report or improve data visualization techniques are
 The usage and distribution of this report may be subject to specific licensing terms. Please refer to the LICENSE file for more information.
 
 ![Gradovi](https://github.com/Tomislav14/PowerBI-Demographics-Report/assets/126504168/006457c6-c67a-48b7-854c-e44d30cf9bb2)
-
 ![Općine](https://github.com/Tomislav14/PowerBI-Demographics-Report/assets/126504168/eabd635e-85e8-4d9d-a59a-871c5e816321)
-
-![Naselja](https://github.com/Tomislav14/PowerBI-Demographics-Report/assets/126504168/747a9869-0b74-4c89-bc4d-68abca576cfa)
-
-
-
-![Općine](https://github.com/Tomislav14/PowerBI-Demographics-Report/assets/126504168/eabd635e-85e8-4d9d-a59a-871c5e816321)
-![Gradovi](https://github.com/Tomislav14/PowerBI-Demographics-Report/assets/126504168/006457c6-c67a-48b7-854c-e44d30cf9bb2)
 ![Naselja](https://github.com/Tomislav14/PowerBI-Demographics-Report/assets/126504168/747a9869-0b74-4c89-bc4d-68abca576cfa)
 
