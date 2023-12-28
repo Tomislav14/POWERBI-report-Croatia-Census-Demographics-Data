@@ -1,5 +1,5 @@
 
-# Croatiam Census of population, households and apartments 2021 Report
+# Croatian Census of population, households and apartments 2021 Report
 
 This repository contains a report generated using data from the The Census of population, households and apartments in the Republic of Croatia in 2021 , provided by the State Bureau of Statistics. The report encompasses population data categorized by settlements, municipalities, cities, and counties.
 
